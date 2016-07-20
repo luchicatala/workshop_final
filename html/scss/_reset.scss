@@ -1,0 +1,27 @@
+/* CSS Document  */
+/* Project name: TP Bootstrap */
+/* File name: styles.css */
+/* Description: Hoja de estilos global */
+/* Creation date: ESCRIBIR-EL-MES de 2016 */
+/* Author: MI-NOMBRE MI-APELLIDO */
+/* Author's eMail: MI-EMAIL@SERVER.com */
+
+/********** FONTS (Google-fonts) **********/
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700);
+
+@import url(https://fonts.googleapis.com/css?family=Permanent+Marker);
+
+body{
+	font-family: $fuente-1;
+	margin: 0;
+}
+
+figure{
+	margin: 0;
+	line-height: 0;
+}
+
+a{
+	outline: none !important;
+	color: inherit !important;
+}
